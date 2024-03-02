@@ -14,30 +14,32 @@ Desenvolvimento de um projeto de visualização em tempo real de dados provenien
 
 
 ## Configuração Inicial
-Baixei os fontes do aplicativo base, e acessei a conta do Azure para fazer as configurações necessárias começando pela criação de um grupo de consumidores vinculado ao Hub IoT.
+Baixei os fontes do aplicativo base, e acessei a conta do Azure para fazer as configurações necessárias, começando pela criação de um grupo de consumidores vinculado ao Hub IoT.
 
-![image](01_config_azure.png)
-
-
-## Modelo de Entidade Relacional
-Modelo do ER utilizado nesse projeto.
-
-![image](02_ent_relacional.png)
+![image](criando_grupo_consumidor.png)
 
 
-## Criação das Tabelas
+## Simulador Raspberry Pi
+Habilitei o simulador do Raspberry.
 
-![image](03_1_criando_tabelas.png)
-
-
-##  Comando Insert
-
-![image](03_2_comando_insert.png)
+![image](raspberry_pi_web_simulator.png)
 
 
-##  Comando Select
+## Aplicação local
+Com tudo configurado adequadamente eu iniciei a aplicação Node.js Local.
 
-![image](03_3_comando_select.png)
+![image](acesso_local_http.png)
+
+
+## Saída no Console Local
+
+![image](saida_console.png)
+
+
+##  Criando Plano de Serviço
+Comecei a configurar a hospedagem da aplicação no Azure, iniciando com a criação de um plano de serviço.
+
+![image](criacao_plano_servico.png)
 
 
 ##  Comando Update
