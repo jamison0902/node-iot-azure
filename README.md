@@ -10,12 +10,11 @@ Desenvolvimento de um projeto de visualização em tempo real de dados provenien
 - Visual Studio Code (VS Code).
 - Raspberry Pi Azure IoT Online Simulator.
 - Aplicativo Web do GitHub, disponível em https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization
-- Versionado através do Git / Github;
 - Auxílio : https://learn.microsoft.com/pt-br/azure/iot-hub/iot-hub-live-data-visualization-in-web-apps
 
 
 ## Configuração Inicial
-Nesta etapa, foi realizado o acesso à conta no Azure, configurando adequadamente os recursos e obtendo acesso ao banco de dados criado.
+Baixei os fontes do aplicativo base, e acessei a conta do Azure para fazer as configurações necessárias começando pela criação de um grupo de consumidores vinculado ao Hub IoT.
 
 ![image](01_config_azure.png)
 
