@@ -42,13 +42,34 @@ Comecei a configurar a hospedagem da aplicação no Azure, iniciando com a cria�
 ![image](criacao_plano_servico.png)
 
 
-##  Comando Update
+##  Criando WebApp
 
-![image](03_4_comando_update.png)
+![image](criando_web_app.png)
 
 
-##  Comando Delete
+##  Configurando o WebApp
 
-![image](03_5_comando_delete.png)
+![image](configurando_app_web.png)
+
+
+##  Habilitando WebSocket
+
+![image](websockets_habilitando.png)
+
+
+##  Habilitando HTTPS
+
+![image](https_only_habilitado.png)
+
+
+##  Habilitando Acesso ao WebApp via Git
+
+![image](acesso_url_git_app_web.png)
+
+
+## Aplicação no Azure
+Com tudo configurado adequadamente eu acessei o link da aplicação hospedada no Azure.
+
+![image](acesso_web_azure.png)
 
 
